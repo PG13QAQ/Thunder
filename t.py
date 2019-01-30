@@ -6,4 +6,5 @@ while L[-1] < 100:
     n += 1
 L.pop()
 print(L)
+print('1111')
 
